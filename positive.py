@@ -4,4 +4,4 @@ if (1<= num <= 100000) :
 elif num == 0:
    print("Zero")
 else:
-   print("Negative number")
+   print("invalid")
